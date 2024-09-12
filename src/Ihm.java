@@ -177,7 +177,7 @@ public class Ihm {
         }else if (moyenneNotenouveau >=10 ){
             System.out.println("tu as eu ton année");
         }else {
-            System.out.println("tu n'as pas eu ton année :(");
+            System.out.println("tu n'as pas eu ton année :( ");
         }
     }
 }
