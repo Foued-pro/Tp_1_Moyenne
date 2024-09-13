@@ -179,6 +179,5 @@ public class Ihm {
         }else {
             System.out.println("tu n'as pas eu ton année :( ");
         }
-        System.out.print("Hello git ");
     }
 }
